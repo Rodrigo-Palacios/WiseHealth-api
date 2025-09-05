@@ -1,0 +1,4 @@
+﻿plan;moneda;suma_asegurada;deducible;coaseguro;tope_coaseguro;renovación
+esencial;MXN;2000000;0.15;0.20;86000;anual
+optimo;MXN;4000000;0.15;0.15;86000;anual
+premium;MXN;8000000;0.1;0.1;86000;anual

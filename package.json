@@ -1,0 +1,16 @@
+{
+  "name": "wisehealth-api",
+  "version": "1.0.0",
+  "description": "A minimal backend implemented with serverless functions deployed on Vercel.",
+  "main": "index.js",
+  "type":"module",
+ "scripts": {
+    "build:data": "node scripts/csvToJsonTarifas.js"
+  },
+  "keywords": [],
+  "author": "Rodrigo Palacios",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0"
+  }
+}

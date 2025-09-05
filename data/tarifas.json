@@ -1,0 +1,3638 @@
+[
+  {
+    "plan": "esencial",
+    "edad": 0,
+    "genero": "HOMBRE",
+    "tarifa": 13111.95218
+  },
+  {
+    "plan": "esencial",
+    "edad": 0,
+    "genero": "MUJER",
+    "tarifa": 12116.35817
+  },
+  {
+    "plan": "optimo",
+    "edad": 0,
+    "genero": "HOMBRE",
+    "tarifa": 12817.15756
+  },
+  {
+    "plan": "optimo",
+    "edad": 0,
+    "genero": "MUJER",
+    "tarifa": 11843.94738
+  },
+  {
+    "plan": "premium",
+    "edad": 0,
+    "genero": "HOMBRE",
+    "tarifa": 13868.16448
+  },
+  {
+    "plan": "premium",
+    "edad": 0,
+    "genero": "MUJER",
+    "tarifa": 12815.15107
+  },
+  {
+    "plan": "esencial",
+    "edad": 1,
+    "genero": "HOMBRE",
+    "tarifa": 13076.31961
+  },
+  {
+    "plan": "esencial",
+    "edad": 1,
+    "genero": "MUJER",
+    "tarifa": 12016.14754
+  },
+  {
+    "plan": "optimo",
+    "edad": 1,
+    "genero": "HOMBRE",
+    "tarifa": 12782.32611
+  },
+  {
+    "plan": "optimo",
+    "edad": 1,
+    "genero": "MUJER",
+    "tarifa": 11745.98977
+  },
+  {
+    "plan": "premium",
+    "edad": 1,
+    "genero": "HOMBRE",
+    "tarifa": 13830.47685
+  },
+  {
+    "plan": "premium",
+    "edad": 1,
+    "genero": "MUJER",
+    "tarifa": 12709.16094
+  },
+  {
+    "plan": "esencial",
+    "edad": 2,
+    "genero": "HOMBRE",
+    "tarifa": 13040.78061
+  },
+  {
+    "plan": "esencial",
+    "edad": 2,
+    "genero": "MUJER",
+    "tarifa": 11916.77024
+  },
+  {
+    "plan": "optimo",
+    "edad": 2,
+    "genero": "HOMBRE",
+    "tarifa": 12747.58613
+  },
+  {
+    "plan": "optimo",
+    "edad": 2,
+    "genero": "MUJER",
+    "tarifa": 11648.84677
+  },
+  {
+    "plan": "premium",
+    "edad": 2,
+    "genero": "HOMBRE",
+    "tarifa": 13792.88819
+  },
+  {
+    "plan": "premium",
+    "edad": 2,
+    "genero": "MUJER",
+    "tarifa": 12604.0522
+  },
+  {
+    "plan": "esencial",
+    "edad": 3,
+    "genero": "HOMBRE",
+    "tarifa": 13005.34184
+  },
+  {
+    "plan": "esencial",
+    "edad": 3,
+    "genero": "MUJER",
+    "tarifa": 11818.21107
+  },
+  {
+    "plan": "optimo",
+    "edad": 3,
+    "genero": "HOMBRE",
+    "tarifa": 12712.94412
+  },
+  {
+    "plan": "optimo",
+    "edad": 3,
+    "genero": "MUJER",
+    "tarifa": 11552.50349
+  },
+  {
+    "plan": "premium",
+    "edad": 3,
+    "genero": "HOMBRE",
+    "tarifa": 13755.40554
+  },
+  {
+    "plan": "premium",
+    "edad": 3,
+    "genero": "MUJER",
+    "tarifa": 12499.80878
+  },
+  {
+    "plan": "esencial",
+    "edad": 4,
+    "genero": "HOMBRE",
+    "tarifa": 12969.9977
+  },
+  {
+    "plan": "esencial",
+    "edad": 4,
+    "genero": "MUJER",
+    "tarifa": 11720.46678
+  },
+  {
+    "plan": "optimo",
+    "edad": 4,
+    "genero": "HOMBRE",
+    "tarifa": 12678.39462
+  },
+  {
+    "plan": "optimo",
+    "edad": 4,
+    "genero": "MUJER",
+    "tarifa": 11456.95678
+  },
+  {
+    "plan": "premium",
+    "edad": 4,
+    "genero": "HOMBRE",
+    "tarifa": 13718.02298
+  },
+  {
+    "plan": "premium",
+    "edad": 4,
+    "genero": "MUJER",
+    "tarifa": 12396.42723
+  },
+  {
+    "plan": "esencial",
+    "edad": 5,
+    "genero": "MUJER",
+    "tarifa": 11623.53302
+  },
+  {
+    "plan": "esencial",
+    "edad": 5,
+    "genero": "HOMBRE",
+    "tarifa": 12934.74703
+  },
+  {
+    "plan": "optimo",
+    "edad": 5,
+    "genero": "MUJER",
+    "tarifa": 11362.20237
+  },
+  {
+    "plan": "optimo",
+    "edad": 5,
+    "genero": "HOMBRE",
+    "tarifa": 12643.93649
+  },
+  {
+    "plan": "premium",
+    "edad": 5,
+    "genero": "MUJER",
+    "tarifa": 12293.90296
+  },
+  {
+    "plan": "premium",
+    "edad": 5,
+    "genero": "HOMBRE",
+    "tarifa": 13680.73928
+  },
+  {
+    "plan": "esencial",
+    "edad": 6,
+    "genero": "HOMBRE",
+    "tarifa": 12897.80222
+  },
+  {
+    "plan": "esencial",
+    "edad": 6,
+    "genero": "MUJER",
+    "tarifa": 11643.86364
+  },
+  {
+    "plan": "optimo",
+    "edad": 6,
+    "genero": "HOMBRE",
+    "tarifa": 12607.82231
+  },
+  {
+    "plan": "optimo",
+    "edad": 6,
+    "genero": "MUJER",
+    "tarifa": 11382.07589
+  },
+  {
+    "plan": "premium",
+    "edad": 6,
+    "genero": "HOMBRE",
+    "tarifa": 13641.66373
+  },
+  {
+    "plan": "premium",
+    "edad": 6,
+    "genero": "MUJER",
+    "tarifa": 12315.40612
+  },
+  {
+    "plan": "esencial",
+    "edad": 7,
+    "genero": "HOMBRE",
+    "tarifa": 12860.96354
+  },
+  {
+    "plan": "esencial",
+    "edad": 7,
+    "genero": "MUJER",
+    "tarifa": 11664.22718
+  },
+  {
+    "plan": "optimo",
+    "edad": 7,
+    "genero": "HOMBRE",
+    "tarifa": 12571.81187
+  },
+  {
+    "plan": "optimo",
+    "edad": 7,
+    "genero": "MUJER",
+    "tarifa": 11401.9816
+  },
+  {
+    "plan": "premium",
+    "edad": 7,
+    "genero": "HOMBRE",
+    "tarifa": 13602.70044
+  },
+  {
+    "plan": "premium",
+    "edad": 7,
+    "genero": "MUJER",
+    "tarifa": 12336.94409
+  },
+  {
+    "plan": "esencial",
+    "edad": 8,
+    "genero": "HOMBRE",
+    "tarifa": 12824.22945
+  },
+  {
+    "plan": "esencial",
+    "edad": 8,
+    "genero": "MUJER",
+    "tarifa": 11684.62548
+  },
+  {
+    "plan": "optimo",
+    "edad": 8,
+    "genero": "HOMBRE",
+    "tarifa": 12535.90366
+  },
+  {
+    "plan": "optimo",
+    "edad": 8,
+    "genero": "MUJER",
+    "tarifa": 11421.92129
+  },
+  {
+    "plan": "premium",
+    "edad": 8,
+    "genero": "HOMBRE",
+    "tarifa": 13563.84776
+  },
+  {
+    "plan": "premium",
+    "edad": 8,
+    "genero": "MUJER",
+    "tarifa": 12358.51884
+  },
+  {
+    "plan": "esencial",
+    "edad": 9,
+    "genero": "HOMBRE",
+    "tarifa": 12787.60168
+  },
+  {
+    "plan": "esencial",
+    "edad": 9,
+    "genero": "MUJER",
+    "tarifa": 11705.06348
+  },
+  {
+    "plan": "optimo",
+    "edad": 9,
+    "genero": "HOMBRE",
+    "tarifa": 12500.09939
+  },
+  {
+    "plan": "optimo",
+    "edad": 9,
+    "genero": "MUJER",
+    "tarifa": 11441.89978
+  },
+  {
+    "plan": "premium",
+    "edad": 9,
+    "genero": "HOMBRE",
+    "tarifa": 13525.10755
+  },
+  {
+    "plan": "premium",
+    "edad": 9,
+    "genero": "MUJER",
+    "tarifa": 12380.13557
+  },
+  {
+    "plan": "esencial",
+    "edad": 10,
+    "genero": "HOMBRE",
+    "tarifa": 12751.07521
+  },
+  {
+    "plan": "esencial",
+    "edad": 10,
+    "genero": "MUJER",
+    "tarifa": 11725.533
+  },
+  {
+    "plan": "optimo",
+    "edad": 10,
+    "genero": "HOMBRE",
+    "tarifa": 12464.39415
+  },
+  {
+    "plan": "optimo",
+    "edad": 10,
+    "genero": "MUJER",
+    "tarifa": 11461.90909
+  },
+  {
+    "plan": "premium",
+    "edad": 10,
+    "genero": "HOMBRE",
+    "tarifa": 13486.47447
+  },
+  {
+    "plan": "premium",
+    "edad": 10,
+    "genero": "MUJER",
+    "tarifa": 12401.78564
+  },
+  {
+    "plan": "esencial",
+    "edad": 11,
+    "genero": "HOMBRE",
+    "tarifa": 12714.65371
+  },
+  {
+    "plan": "esencial",
+    "edad": 11,
+    "genero": "MUJER",
+    "tarifa": 11746.03869
+  },
+  {
+    "plan": "optimo",
+    "edad": 11,
+    "genero": "HOMBRE",
+    "tarifa": 12428.79151
+  },
+  {
+    "plan": "optimo",
+    "edad": 11,
+    "genero": "MUJER",
+    "tarifa": 11481.95375
+  },
+  {
+    "plan": "premium",
+    "edad": 11,
+    "genero": "HOMBRE",
+    "tarifa": 13447.95241
+  },
+  {
+    "plan": "premium",
+    "edad": 11,
+    "genero": "MUJER",
+    "tarifa": 12423.47396
+  },
+  {
+    "plan": "esencial",
+    "edad": 12,
+    "genero": "MUJER",
+    "tarifa": 11766.58267
+  },
+  {
+    "plan": "esencial",
+    "edad": 12,
+    "genero": "HOMBRE",
+    "tarifa": 12678.33815
+  },
+  {
+    "plan": "optimo",
+    "edad": 12,
+    "genero": "MUJER",
+    "tarifa": 11502.03585
+  },
+  {
+    "plan": "optimo",
+    "edad": 12,
+    "genero": "HOMBRE",
+    "tarifa": 12393.29243
+  },
+  {
+    "plan": "premium",
+    "edad": 12,
+    "genero": "MUJER",
+    "tarifa": 12445.20279
+  },
+  {
+    "plan": "premium",
+    "edad": 12,
+    "genero": "HOMBRE",
+    "tarifa": 13409.54241
+  },
+  {
+    "plan": "esencial",
+    "edad": 13,
+    "genero": "HOMBRE",
+    "tarifa": 12642.1265
+  },
+  {
+    "plan": "esencial",
+    "edad": 13,
+    "genero": "MUJER",
+    "tarifa": 11787.16161
+  },
+  {
+    "plan": "optimo",
+    "edad": 13,
+    "genero": "HOMBRE",
+    "tarifa": 12357.89492
+  },
+  {
+    "plan": "optimo",
+    "edad": 13,
+    "genero": "MUJER",
+    "tarifa": 11522.15211
+  },
+  {
+    "plan": "premium",
+    "edad": 13,
+    "genero": "HOMBRE",
+    "tarifa": 13371.2423
+  },
+  {
+    "plan": "premium",
+    "edad": 13,
+    "genero": "MUJER",
+    "tarifa": 12466.96859
+  },
+  {
+    "plan": "esencial",
+    "edad": 14,
+    "genero": "HOMBRE",
+    "tarifa": 12606.01856
+  },
+  {
+    "plan": "esencial",
+    "edad": 14,
+    "genero": "MUJER",
+    "tarifa": 11807.77662
+  },
+  {
+    "plan": "optimo",
+    "edad": 14,
+    "genero": "HOMBRE",
+    "tarifa": 12322.59879
+  },
+  {
+    "plan": "optimo",
+    "edad": 14,
+    "genero": "MUJER",
+    "tarifa": 11542.30364
+  },
+  {
+    "plan": "premium",
+    "edad": 14,
+    "genero": "HOMBRE",
+    "tarifa": 13333.05189
+  },
+  {
+    "plan": "premium",
+    "edad": 14,
+    "genero": "MUJER",
+    "tarifa": 12488.77254
+  },
+  {
+    "plan": "esencial",
+    "edad": 15,
+    "genero": "HOMBRE",
+    "tarifa": 12570.01212
+  },
+  {
+    "plan": "esencial",
+    "edad": 15,
+    "genero": "MUJER",
+    "tarifa": 11828.42566
+  },
+  {
+    "plan": "optimo",
+    "edad": 15,
+    "genero": "HOMBRE",
+    "tarifa": 12287.40188
+  },
+  {
+    "plan": "optimo",
+    "edad": 15,
+    "genero": "MUJER",
+    "tarifa": 11562.48843
+  },
+  {
+    "plan": "premium",
+    "edad": 15,
+    "genero": "HOMBRE",
+    "tarifa": 13294.96883
+  },
+  {
+    "plan": "premium",
+    "edad": 15,
+    "genero": "MUJER",
+    "tarifa": 12510.61248
+  },
+  {
+    "plan": "esencial",
+    "edad": 16,
+    "genero": "HOMBRE",
+    "tarifa": 12798.35419
+  },
+  {
+    "plan": "esencial",
+    "edad": 16,
+    "genero": "MUJER",
+    "tarifa": 12433.12638
+  },
+  {
+    "plan": "optimo",
+    "edad": 16,
+    "genero": "HOMBRE",
+    "tarifa": 12510.61016
+  },
+  {
+    "plan": "optimo",
+    "edad": 16,
+    "genero": "MUJER",
+    "tarifa": 12153.59373
+  },
+  {
+    "plan": "premium",
+    "edad": 16,
+    "genero": "HOMBRE",
+    "tarifa": 13536.48019
+  },
+  {
+    "plan": "premium",
+    "edad": 16,
+    "genero": "MUJER",
+    "tarifa": 13150.18841
+  },
+  {
+    "plan": "esencial",
+    "edad": 17,
+    "genero": "HOMBRE",
+    "tarifa": 13030.84428
+  },
+  {
+    "plan": "esencial",
+    "edad": 17,
+    "genero": "MUJER",
+    "tarifa": 13068.73886
+  },
+  {
+    "plan": "optimo",
+    "edad": 17,
+    "genero": "HOMBRE",
+    "tarifa": 12737.8732
+  },
+  {
+    "plan": "optimo",
+    "edad": 17,
+    "genero": "MUJER",
+    "tarifa": 12774.9158
+  },
+  {
+    "plan": "premium",
+    "edad": 17,
+    "genero": "HOMBRE",
+    "tarifa": 13782.3788
+  },
+  {
+    "plan": "premium",
+    "edad": 17,
+    "genero": "MUJER",
+    "tarifa": 13822.45889
+  },
+  {
+    "plan": "esencial",
+    "edad": 18,
+    "genero": "MUJER",
+    "tarifa": 13736.84558
+  },
+  {
+    "plan": "esencial",
+    "edad": 18,
+    "genero": "HOMBRE",
+    "tarifa": 13267.55623
+  },
+  {
+    "plan": "optimo",
+    "edad": 18,
+    "genero": "MUJER",
+    "tarifa": 13428.00154
+  },
+  {
+    "plan": "optimo",
+    "edad": 18,
+    "genero": "HOMBRE",
+    "tarifa": 12969.26318
+  },
+  {
+    "plan": "premium",
+    "edad": 18,
+    "genero": "MUJER",
+    "tarifa": 14529.09767
+  },
+  {
+    "plan": "premium",
+    "edad": 18,
+    "genero": "HOMBRE",
+    "tarifa": 14032.74276
+  },
+  {
+    "plan": "esencial",
+    "edad": 19,
+    "genero": "HOMBRE",
+    "tarifa": 13508.57104
+  },
+  {
+    "plan": "esencial",
+    "edad": 19,
+    "genero": "MUJER",
+    "tarifa": 14439.11134
+  },
+  {
+    "plan": "optimo",
+    "edad": 19,
+    "genero": "HOMBRE",
+    "tarifa": 13204.85928
+  },
+  {
+    "plan": "optimo",
+    "edad": 19,
+    "genero": "MUJER",
+    "tarifa": 14114.47834
+  },
+  {
+    "plan": "premium",
+    "edad": 19,
+    "genero": "HOMBRE",
+    "tarifa": 14287.65774
+  },
+  {
+    "plan": "premium",
+    "edad": 19,
+    "genero": "MUJER",
+    "tarifa": 15271.86556
+  },
+  {
+    "plan": "esencial",
+    "edad": 20,
+    "genero": "HOMBRE",
+    "tarifa": 13753.96285
+  },
+  {
+    "plan": "esencial",
+    "edad": 20,
+    "genero": "MUJER",
+    "tarifa": 15177.27617
+  },
+  {
+    "plan": "optimo",
+    "edad": 20,
+    "genero": "HOMBRE",
+    "tarifa": 13444.73396
+  },
+  {
+    "plan": "optimo",
+    "edad": 20,
+    "genero": "MUJER",
+    "tarifa": 14836.04709
+  },
+  {
+    "plan": "premium",
+    "edad": 20,
+    "genero": "HOMBRE",
+    "tarifa": 14547.20215
+  },
+  {
+    "plan": "premium",
+    "edad": 20,
+    "genero": "MUJER",
+    "tarifa": 16052.60295
+  },
+  {
+    "plan": "esencial",
+    "edad": 21,
+    "genero": "HOMBRE",
+    "tarifa": 14003.81255
+  },
+  {
+    "plan": "esencial",
+    "edad": 21,
+    "genero": "MUJER",
+    "tarifa": 15953.1744
+  },
+  {
+    "plan": "optimo",
+    "edad": 21,
+    "genero": "HOMBRE",
+    "tarifa": 13688.96633
+  },
+  {
+    "plan": "optimo",
+    "edad": 21,
+    "genero": "MUJER",
+    "tarifa": 15594.50088
+  },
+  {
+    "plan": "premium",
+    "edad": 21,
+    "genero": "HOMBRE",
+    "tarifa": 14811.46157
+  },
+  {
+    "plan": "premium",
+    "edad": 21,
+    "genero": "MUJER",
+    "tarifa": 16873.24995
+  },
+  {
+    "plan": "esencial",
+    "edad": 22,
+    "genero": "HOMBRE",
+    "tarifa": 14258.2
+  },
+  {
+    "plan": "esencial",
+    "edad": 22,
+    "genero": "MUJER",
+    "tarifa": 16768.74307
+  },
+  {
+    "plan": "optimo",
+    "edad": 22,
+    "genero": "HOMBRE",
+    "tarifa": 13937.63441
+  },
+  {
+    "plan": "optimo",
+    "edad": 22,
+    "genero": "MUJER",
+    "tarifa": 16391.73321
+  },
+  {
+    "plan": "premium",
+    "edad": 22,
+    "genero": "HOMBRE",
+    "tarifa": 15080.52043
+  },
+  {
+    "plan": "premium",
+    "edad": 22,
+    "genero": "MUJER",
+    "tarifa": 17735.85533
+  },
+  {
+    "plan": "esencial",
+    "edad": 23,
+    "genero": "HOMBRE",
+    "tarifa": 14517.2061
+  },
+  {
+    "plan": "esencial",
+    "edad": 23,
+    "genero": "MUJER",
+    "tarifa": 17626.00345
+  },
+  {
+    "plan": "optimo",
+    "edad": 23,
+    "genero": "HOMBRE",
+    "tarifa": 14190.8173
+  },
+  {
+    "plan": "optimo",
+    "edad": 23,
+    "genero": "MUJER",
+    "tarifa": 17229.71989
+  },
+  {
+    "plan": "premium",
+    "edad": 23,
+    "genero": "HOMBRE",
+    "tarifa": 15354.46432
+  },
+  {
+    "plan": "premium",
+    "edad": 23,
+    "genero": "MUJER",
+    "tarifa": 18642.55693
+  },
+  {
+    "plan": "esencial",
+    "edad": 24,
+    "genero": "MUJER",
+    "tarifa": 18527.0915
+  },
+  {
+    "plan": "esencial",
+    "edad": 24,
+    "genero": "HOMBRE",
+    "tarifa": 14780.92208
+  },
+  {
+    "plan": "optimo",
+    "edad": 24,
+    "genero": "MUJER",
+    "tarifa": 18110.54888
+  },
+  {
+    "plan": "optimo",
+    "edad": 24,
+    "genero": "HOMBRE",
+    "tarifa": 14448.60419
+  },
+  {
+    "plan": "premium",
+    "edad": 24,
+    "genero": "MUJER",
+    "tarifa": 19595.61389
+  },
+  {
+    "plan": "premium",
+    "edad": 24,
+    "genero": "HOMBRE",
+    "tarifa": 15633.38973
+  },
+  {
+    "plan": "esencial",
+    "edad": 25,
+    "genero": "MUJER",
+    "tarifa": 19418.74053
+  },
+  {
+    "plan": "esencial",
+    "edad": 25,
+    "genero": "HOMBRE",
+    "tarifa": 15292.5575
+  },
+  {
+    "plan": "optimo",
+    "edad": 25,
+    "genero": "MUJER",
+    "tarifa": 18982.15106
+  },
+  {
+    "plan": "optimo",
+    "edad": 25,
+    "genero": "HOMBRE",
+    "tarifa": 14948.73656
+  },
+  {
+    "plan": "premium",
+    "edad": 25,
+    "genero": "MUJER",
+    "tarifa": 20538.68744
+  },
+  {
+    "plan": "premium",
+    "edad": 25,
+    "genero": "HOMBRE",
+    "tarifa": 16174.53296
+  },
+  {
+    "plan": "esencial",
+    "edad": 26,
+    "genero": "HOMBRE",
+    "tarifa": 15821.90274
+  },
+  {
+    "plan": "esencial",
+    "edad": 26,
+    "genero": "MUJER",
+    "tarifa": 20353.30071
+  },
+  {
+    "plan": "optimo",
+    "edad": 26,
+    "genero": "HOMBRE",
+    "tarifa": 15466.18058
+  },
+  {
+    "plan": "optimo",
+    "edad": 26,
+    "genero": "MUJER",
+    "tarifa": 19895.69962
+  },
+  {
+    "plan": "premium",
+    "edad": 26,
+    "genero": "HOMBRE",
+    "tarifa": 16734.40739
+  },
+  {
+    "plan": "premium",
+    "edad": 26,
+    "genero": "MUJER",
+    "tarifa": 21527.14699
+  },
+  {
+    "plan": "esencial",
+    "edad": 27,
+    "genero": "HOMBRE",
+    "tarifa": 16369.56973
+  },
+  {
+    "plan": "esencial",
+    "edad": 27,
+    "genero": "MUJER",
+    "tarifa": 21332.84023
+  },
+  {
+    "plan": "optimo",
+    "edad": 27,
+    "genero": "HOMBRE",
+    "tarifa": 16001.53444
+  },
+  {
+    "plan": "optimo",
+    "edad": 27,
+    "genero": "MUJER",
+    "tarifa": 20853.21626
+  },
+  {
+    "plan": "premium",
+    "edad": 27,
+    "genero": "HOMBRE",
+    "tarifa": 17313.66026
+  },
+  {
+    "plan": "premium",
+    "edad": 27,
+    "genero": "MUJER",
+    "tarifa": 22563.17999
+  },
+  {
+    "plan": "esencial",
+    "edad": 28,
+    "genero": "HOMBRE",
+    "tarifa": 16936.19267
+  },
+  {
+    "plan": "esencial",
+    "edad": 28,
+    "genero": "MUJER",
+    "tarifa": 22359.52175
+  },
+  {
+    "plan": "optimo",
+    "edad": 28,
+    "genero": "HOMBRE",
+    "tarifa": 16555.41805
+  },
+  {
+    "plan": "optimo",
+    "edad": 28,
+    "genero": "MUJER",
+    "tarifa": 21856.81501
+  },
+  {
+    "plan": "premium",
+    "edad": 28,
+    "genero": "HOMBRE",
+    "tarifa": 17912.96233
+  },
+  {
+    "plan": "premium",
+    "edad": 28,
+    "genero": "MUJER",
+    "tarifa": 23649.07384
+  },
+  {
+    "plan": "esencial",
+    "edad": 29,
+    "genero": "HOMBRE",
+    "tarifa": 17522.43143
+  },
+  {
+    "plan": "esencial",
+    "edad": 29,
+    "genero": "MUJER",
+    "tarifa": 23435.61467
+  },
+  {
+    "plan": "optimo",
+    "edad": 29,
+    "genero": "HOMBRE",
+    "tarifa": 17128.47647
+  },
+  {
+    "plan": "optimo",
+    "edad": 29,
+    "genero": "MUJER",
+    "tarifa": 22908.71424
+  },
+  {
+    "plan": "premium",
+    "edad": 29,
+    "genero": "HOMBRE",
+    "tarifa": 18533.01154
+  },
+  {
+    "plan": "premium",
+    "edad": 29,
+    "genero": "MUJER",
+    "tarifa": 24787.22881
+  },
+  {
+    "plan": "esencial",
+    "edad": 30,
+    "genero": "HOMBRE",
+    "tarifa": 18159.2262
+  },
+  {
+    "plan": "esencial",
+    "edad": 30,
+    "genero": "MUJER",
+    "tarifa": 24408.2976
+  },
+  {
+    "plan": "optimo",
+    "edad": 30,
+    "genero": "HOMBRE",
+    "tarifa": 17750.95425
+  },
+  {
+    "plan": "optimo",
+    "edad": 30,
+    "genero": "MUJER",
+    "tarifa": 23859.52845
+  },
+  {
+    "plan": "premium",
+    "edad": 30,
+    "genero": "HOMBRE",
+    "tarifa": 19206.5325
+  },
+  {
+    "plan": "premium",
+    "edad": 30,
+    "genero": "MUJER",
+    "tarifa": 25816.00978
+  },
+  {
+    "plan": "esencial",
+    "edad": 31,
+    "genero": "HOMBRE",
+    "tarifa": 18819.16194
+  },
+  {
+    "plan": "esencial",
+    "edad": 31,
+    "genero": "MUJER",
+    "tarifa": 25421.352
+  },
+  {
+    "plan": "optimo",
+    "edad": 31,
+    "genero": "HOMBRE",
+    "tarifa": 18396.05273
+  },
+  {
+    "plan": "optimo",
+    "edad": 31,
+    "genero": "MUJER",
+    "tarifa": 24849.80645
+  },
+  {
+    "plan": "premium",
+    "edad": 31,
+    "genero": "HOMBRE",
+    "tarifa": 19904.52905
+  },
+  {
+    "plan": "premium",
+    "edad": 31,
+    "genero": "MUJER",
+    "tarifa": 26887.49058
+  },
+  {
+    "plan": "esencial",
+    "edad": 32,
+    "genero": "MUJER",
+    "tarifa": 26476.45464
+  },
+  {
+    "plan": "esencial",
+    "edad": 32,
+    "genero": "HOMBRE",
+    "tarifa": 19503.07929
+  },
+  {
+    "plan": "optimo",
+    "edad": 32,
+    "genero": "MUJER",
+    "tarifa": 25881.18733
+  },
+  {
+    "plan": "optimo",
+    "edad": 32,
+    "genero": "HOMBRE",
+    "tarifa": 19064.59364
+  },
+  {
+    "plan": "premium",
+    "edad": 32,
+    "genero": "MUJER",
+    "tarifa": 28003.44469
+  },
+  {
+    "plan": "premium",
+    "edad": 32,
+    "genero": "HOMBRE",
+    "tarifa": 20627.89032
+  },
+  {
+    "plan": "esencial",
+    "edad": 33,
+    "genero": "HOMBRE",
+    "tarifa": 20211.85167
+  },
+  {
+    "plan": "esencial",
+    "edad": 33,
+    "genero": "MUJER",
+    "tarifa": 27575.34786
+  },
+  {
+    "plan": "optimo",
+    "edad": 33,
+    "genero": "HOMBRE",
+    "tarifa": 19757.43076
+  },
+  {
+    "plan": "optimo",
+    "edad": 33,
+    "genero": "MUJER",
+    "tarifa": 26955.37425
+  },
+  {
+    "plan": "premium",
+    "edad": 33,
+    "genero": "HOMBRE",
+    "tarifa": 21377.54009
+  },
+  {
+    "plan": "premium",
+    "edad": 33,
+    "genero": "MUJER",
+    "tarifa": 29165.71494
+  },
+  {
+    "plan": "esencial",
+    "edad": 34,
+    "genero": "HOMBRE",
+    "tarifa": 20946.38283
+  },
+  {
+    "plan": "esencial",
+    "edad": 34,
+    "genero": "MUJER",
+    "tarifa": 28719.84956
+  },
+  {
+    "plan": "optimo",
+    "edad": 34,
+    "genero": "HOMBRE",
+    "tarifa": 20475.44754
+  },
+  {
+    "plan": "optimo",
+    "edad": 34,
+    "genero": "MUJER",
+    "tarifa": 28074.14425
+  },
+  {
+    "plan": "premium",
+    "edad": 34,
+    "genero": "HOMBRE",
+    "tarifa": 22154.43424
+  },
+  {
+    "plan": "premium",
+    "edad": 34,
+    "genero": "MUJER",
+    "tarifa": 30376.22407
+  },
+  {
+    "plan": "esencial",
+    "edad": 35,
+    "genero": "HOMBRE",
+    "tarifa": 21757.93477
+  },
+  {
+    "plan": "esencial",
+    "edad": 35,
+    "genero": "MUJER",
+    "tarifa": 29516.132
+  },
+  {
+    "plan": "optimo",
+    "edad": 35,
+    "genero": "HOMBRE",
+    "tarifa": 21268.75344
+  },
+  {
+    "plan": "optimo",
+    "edad": 35,
+    "genero": "MUJER",
+    "tarifa": 28852.52395
+  },
+  {
+    "plan": "premium",
+    "edad": 35,
+    "genero": "HOMBRE",
+    "tarifa": 23012.79123
+  },
+  {
+    "plan": "premium",
+    "edad": 35,
+    "genero": "MUJER",
+    "tarifa": 31218.43091
+  },
+  {
+    "plan": "esencial",
+    "edad": 36,
+    "genero": "HOMBRE",
+    "tarifa": 22600.92681
+  },
+  {
+    "plan": "esencial",
+    "edad": 36,
+    "genero": "MUJER",
+    "tarifa": 30334.49305
+  },
+  {
+    "plan": "optimo",
+    "edad": 36,
+    "genero": "HOMBRE",
+    "tarifa": 22092.79258
+  },
+  {
+    "plan": "optimo",
+    "edad": 36,
+    "genero": "MUJER",
+    "tarifa": 29652.48587
+  },
+  {
+    "plan": "premium",
+    "edad": 36,
+    "genero": "HOMBRE",
+    "tarifa": 23904.40157
+  },
+  {
+    "plan": "premium",
+    "edad": 36,
+    "genero": "MUJER",
+    "tarifa": 32083.98971
+  },
+  {
+    "plan": "esencial",
+    "edad": 37,
+    "genero": "HOMBRE",
+    "tarifa": 23476.57674
+  },
+  {
+    "plan": "esencial",
+    "edad": 37,
+    "genero": "MUJER",
+    "tarifa": 31175.54711
+  },
+  {
+    "plan": "optimo",
+    "edad": 37,
+    "genero": "HOMBRE",
+    "tarifa": 22948.75536
+  },
+  {
+    "plan": "optimo",
+    "edad": 37,
+    "genero": "MUJER",
+    "tarifa": 30474.63061
+  },
+  {
+    "plan": "premium",
+    "edad": 37,
+    "genero": "HOMBRE",
+    "tarifa": 24830.5533
+  },
+  {
+    "plan": "premium",
+    "edad": 37,
+    "genero": "MUJER",
+    "tarifa": 32973.55032
+  },
+  {
+    "plan": "esencial",
+    "edad": 38,
+    "genero": "MUJER",
+    "tarifa": 32039.91787
+  },
+  {
+    "plan": "esencial",
+    "edad": 38,
+    "genero": "HOMBRE",
+    "tarifa": 24386.15717
+  },
+  {
+    "plan": "optimo",
+    "edad": 38,
+    "genero": "MUJER",
+    "tarifa": 31319.56781
+  },
+  {
+    "plan": "optimo",
+    "edad": 38,
+    "genero": "HOMBRE",
+    "tarifa": 23837.8858
+  },
+  {
+    "plan": "premium",
+    "edad": 38,
+    "genero": "MUJER",
+    "tarifa": 33887.77238
+  },
+  {
+    "plan": "premium",
+    "edad": 38,
+    "genero": "HOMBRE",
+    "tarifa": 25792.59243
+  },
+  {
+    "plan": "esencial",
+    "edad": 39,
+    "genero": "HOMBRE",
+    "tarifa": 25330.97552
+  },
+  {
+    "plan": "esencial",
+    "edad": 39,
+    "genero": "MUJER",
+    "tarifa": 32928.25071
+  },
+  {
+    "plan": "optimo",
+    "edad": 39,
+    "genero": "HOMBRE",
+    "tarifa": 24761.4619
+  },
+  {
+    "plan": "optimo",
+    "edad": 39,
+    "genero": "MUJER",
+    "tarifa": 32187.92836
+  },
+  {
+    "plan": "premium",
+    "edad": 39,
+    "genero": "HOMBRE",
+    "tarifa": 26791.90177
+  },
+  {
+    "plan": "premium",
+    "edad": 39,
+    "genero": "MUJER",
+    "tarifa": 34827.33849
+  },
+  {
+    "plan": "esencial",
+    "edad": 40,
+    "genero": "HOMBRE",
+    "tarifa": 26205.76026
+  },
+  {
+    "plan": "esencial",
+    "edad": 40,
+    "genero": "MUJER",
+    "tarifa": 33767.90386
+  },
+  {
+    "plan": "optimo",
+    "edad": 40,
+    "genero": "HOMBRE",
+    "tarifa": 25616.57894
+  },
+  {
+    "plan": "optimo",
+    "edad": 40,
+    "genero": "MUJER",
+    "tarifa": 33008.70368
+  },
+  {
+    "plan": "premium",
+    "edad": 40,
+    "genero": "HOMBRE",
+    "tarifa": 27717.13841
+  },
+  {
+    "plan": "premium",
+    "edad": 40,
+    "genero": "MUJER",
+    "tarifa": 35715.41738
+  },
+  {
+    "plan": "esencial",
+    "edad": 41,
+    "genero": "HOMBRE",
+    "tarifa": 27110.75395
+  },
+  {
+    "plan": "esencial",
+    "edad": 41,
+    "genero": "MUJER",
+    "tarifa": 34628.96929
+  },
+  {
+    "plan": "optimo",
+    "edad": 41,
+    "genero": "HOMBRE",
+    "tarifa": 26501.22575
+  },
+  {
+    "plan": "optimo",
+    "edad": 41,
+    "genero": "MUJER",
+    "tarifa": 33850.40986
+  },
+  {
+    "plan": "premium",
+    "edad": 41,
+    "genero": "HOMBRE",
+    "tarifa": 28674.32626
+  },
+  {
+    "plan": "premium",
+    "edad": 41,
+    "genero": "MUJER",
+    "tarifa": 36626.14347
+  },
+  {
+    "plan": "esencial",
+    "edad": 42,
+    "genero": "HOMBRE",
+    "tarifa": 28047.00301
+  },
+  {
+    "plan": "esencial",
+    "edad": 42,
+    "genero": "MUJER",
+    "tarifa": 35511.98972
+  },
+  {
+    "plan": "optimo",
+    "edad": 42,
+    "genero": "HOMBRE",
+    "tarifa": 27416.42523
+  },
+  {
+    "plan": "optimo",
+    "edad": 42,
+    "genero": "MUJER",
+    "tarifa": 34713.57744
+  },
+  {
+    "plan": "premium",
+    "edad": 42,
+    "genero": "HOMBRE",
+    "tarifa": 29664.5721
+  },
+  {
+    "plan": "premium",
+    "edad": 42,
+    "genero": "MUJER",
+    "tarifa": 37560.09079
+  },
+  {
+    "plan": "esencial",
+    "edad": 43,
+    "genero": "HOMBRE",
+    "tarifa": 29015.58182
+  },
+  {
+    "plan": "esencial",
+    "edad": 43,
+    "genero": "MUJER",
+    "tarifa": 36417.52494
+  },
+  {
+    "plan": "optimo",
+    "edad": 43,
+    "genero": "HOMBRE",
+    "tarifa": 28363.22758
+  },
+  {
+    "plan": "optimo",
+    "edad": 43,
+    "genero": "MUJER",
+    "tarifa": 35598.75361
+  },
+  {
+    "plan": "premium",
+    "edad": 43,
+    "genero": "HOMBRE",
+    "tarifa": 30689.01225
+  },
+  {
+    "plan": "premium",
+    "edad": 43,
+    "genero": "MUJER",
+    "tarifa": 38517.85141
+  },
+  {
+    "plan": "esencial",
+    "edad": 44,
+    "genero": "MUJER",
+    "tarifa": 37346.15367
+  },
+  {
+    "plan": "esencial",
+    "edad": 44,
+    "genero": "HOMBRE",
+    "tarifa": 30017.61431
+  },
+  {
+    "plan": "optimo",
+    "edad": 44,
+    "genero": "MUJER",
+    "tarifa": 36506.50408
+  },
+  {
+    "plan": "optimo",
+    "edad": 44,
+    "genero": "HOMBRE",
+    "tarifa": 29342.73149
+  },
+  {
+    "plan": "premium",
+    "edad": 44,
+    "genero": "MUJER",
+    "tarifa": 39500.03742
+  },
+  {
+    "plan": "premium",
+    "edad": 44,
+    "genero": "HOMBRE",
+    "tarifa": 31748.83547
+  },
+  {
+    "plan": "esencial",
+    "edad": 45,
+    "genero": "HOMBRE",
+    "tarifa": 31389.0976
+  },
+  {
+    "plan": "esencial",
+    "edad": 45,
+    "genero": "MUJER",
+    "tarifa": 38646.43836
+  },
+  {
+    "plan": "optimo",
+    "edad": 45,
+    "genero": "HOMBRE",
+    "tarifa": 30683.37986
+  },
+  {
+    "plan": "optimo",
+    "edad": 45,
+    "genero": "MUJER",
+    "tarifa": 37777.5546
+  },
+  {
+    "plan": "premium",
+    "edad": 45,
+    "genero": "HOMBRE",
+    "tarifa": 33199.41701
+  },
+  {
+    "plan": "premium",
+    "edad": 45,
+    "genero": "MUJER",
+    "tarifa": 40875.31408
+  },
+  {
+    "plan": "esencial",
+    "edad": 46,
+    "genero": "HOMBRE",
+    "tarifa": 32823.24359
+  },
+  {
+    "plan": "esencial",
+    "edad": 46,
+    "genero": "MUJER",
+    "tarifa": 39991.99373
+  },
+  {
+    "plan": "optimo",
+    "edad": 46,
+    "genero": "HOMBRE",
+    "tarifa": 32085.2821
+  },
+  {
+    "plan": "optimo",
+    "edad": 46,
+    "genero": "MUJER",
+    "tarifa": 39092.858
+  },
+  {
+    "plan": "premium",
+    "edad": 46,
+    "genero": "HOMBRE",
+    "tarifa": 34716.27524
+  },
+  {
+    "plan": "premium",
+    "edad": 46,
+    "genero": "MUJER",
+    "tarifa": 42298.47235
+  },
+  {
+    "plan": "esencial",
+    "edad": 47,
+    "genero": "HOMBRE",
+    "tarifa": 34322.91754
+  },
+  {
+    "plan": "esencial",
+    "edad": 47,
+    "genero": "MUJER",
+    "tarifa": 41384.40096
+  },
+  {
+    "plan": "optimo",
+    "edad": 47,
+    "genero": "HOMBRE",
+    "tarifa": 33551.23904
+  },
+  {
+    "plan": "optimo",
+    "edad": 47,
+    "genero": "MUJER",
+    "tarifa": 40453.95988
+  },
+  {
+    "plan": "premium",
+    "edad": 47,
+    "genero": "HOMBRE",
+    "tarifa": 36302.44065
+  },
+  {
+    "plan": "premium",
+    "edad": 47,
+    "genero": "MUJER",
+    "tarifa": 43771.18459
+  },
+  {
+    "plan": "esencial",
+    "edad": 48,
+    "genero": "HOMBRE",
+    "tarifa": 35891.11007
+  },
+  {
+    "plan": "esencial",
+    "edad": 48,
+    "genero": "MUJER",
+    "tarifa": 42825.28434
+  },
+  {
+    "plan": "optimo",
+    "edad": 48,
+    "genero": "HOMBRE",
+    "tarifa": 35084.17407
+  },
+  {
+    "plan": "optimo",
+    "edad": 48,
+    "genero": "MUJER",
+    "tarifa": 41862.44804
+  },
+  {
+    "plan": "premium",
+    "edad": 48,
+    "genero": "HOMBRE",
+    "tarifa": 37961.07634
+  },
+  {
+    "plan": "premium",
+    "edad": 48,
+    "genero": "MUJER",
+    "tarifa": 45295.16878
+  },
+  {
+    "plan": "esencial",
+    "edad": 49,
+    "genero": "MUJER",
+    "tarifa": 44316.33818
+  },
+  {
+    "plan": "esencial",
+    "edad": 49,
+    "genero": "HOMBRE",
+    "tarifa": 37530.95196
+  },
+  {
+    "plan": "optimo",
+    "edad": 49,
+    "genero": "MUJER",
+    "tarifa": 43319.97867
+  },
+  {
+    "plan": "optimo",
+    "edad": 49,
+    "genero": "HOMBRE",
+    "tarifa": 36687.14757
+  },
+  {
+    "plan": "premium",
+    "edad": 49,
+    "genero": "MUJER",
+    "tarifa": 46872.21692
+  },
+  {
+    "plan": "premium",
+    "edad": 49,
+    "genero": "HOMBRE",
+    "tarifa": 39695.49367
+  },
+  {
+    "plan": "esencial",
+    "edad": 50,
+    "genero": "MUJER",
+    "tarifa": 45461.68954
+  },
+  {
+    "plan": "esencial",
+    "edad": 50,
+    "genero": "HOMBRE",
+    "tarifa": 39695.46216
+  },
+  {
+    "plan": "optimo",
+    "edad": 50,
+    "genero": "MUJER",
+    "tarifa": 44439.57922
+  },
+  {
+    "plan": "optimo",
+    "edad": 50,
+    "genero": "HOMBRE",
+    "tarifa": 38802.99331
+  },
+  {
+    "plan": "premium",
+    "edad": 50,
+    "genero": "MUJER",
+    "tarifa": 48083.62472
+  },
+  {
+    "plan": "premium",
+    "edad": 50,
+    "genero": "HOMBRE",
+    "tarifa": 41984.83876
+  },
+  {
+    "plan": "esencial",
+    "edad": 51,
+    "genero": "HOMBRE",
+    "tarifa": 41984.8076
+  },
+  {
+    "plan": "esencial",
+    "edad": 51,
+    "genero": "MUJER",
+    "tarifa": 46636.64893
+  },
+  {
+    "plan": "optimo",
+    "edad": 51,
+    "genero": "HOMBRE",
+    "tarifa": 41040.86764
+  },
+  {
+    "plan": "optimo",
+    "edad": 51,
+    "genero": "MUJER",
+    "tarifa": 45588.12212
+  },
+  {
+    "plan": "premium",
+    "edad": 51,
+    "genero": "HOMBRE",
+    "tarifa": 44406.21879
+  },
+  {
+    "plan": "premium",
+    "edad": 51,
+    "genero": "MUJER",
+    "tarifa": 49326.34813
+  },
+  {
+    "plan": "esencial",
+    "edad": 52,
+    "genero": "HOMBRE",
+    "tarifa": 44406.18618
+  },
+  {
+    "plan": "esencial",
+    "edad": 52,
+    "genero": "MUJER",
+    "tarifa": 47841.97085
+  },
+  {
+    "plan": "optimo",
+    "edad": 52,
+    "genero": "HOMBRE",
+    "tarifa": 43407.80663
+  },
+  {
+    "plan": "optimo",
+    "edad": 52,
+    "genero": "MUJER",
+    "tarifa": 46766.34492
+  },
+  {
+    "plan": "premium",
+    "edad": 52,
+    "genero": "HOMBRE",
+    "tarifa": 46967.24677
+  },
+  {
+    "plan": "premium",
+    "edad": 52,
+    "genero": "MUJER",
+    "tarifa": 50601.1852
+  },
+  {
+    "plan": "esencial",
+    "edad": 53,
+    "genero": "HOMBRE",
+    "tarifa": 46967.215
+  },
+  {
+    "plan": "esencial",
+    "edad": 53,
+    "genero": "MUJER",
+    "tarifa": 49078.4472
+  },
+  {
+    "plan": "optimo",
+    "edad": 53,
+    "genero": "HOMBRE",
+    "tarifa": 45911.25611
+  },
+  {
+    "plan": "optimo",
+    "edad": 53,
+    "genero": "MUJER",
+    "tarifa": 47975.0217
+  },
+  {
+    "plan": "premium",
+    "edad": 53,
+    "genero": "HOMBRE",
+    "tarifa": 49675.97911
+  },
+  {
+    "plan": "premium",
+    "edad": 53,
+    "genero": "MUJER",
+    "tarifa": 51908.97348
+  },
+  {
+    "plan": "esencial",
+    "edad": 54,
+    "genero": "HOMBRE",
+    "tarifa": 49675.93983
+  },
+  {
+    "plan": "esencial",
+    "edad": 54,
+    "genero": "MUJER",
+    "tarifa": 50346.87756
+  },
+  {
+    "plan": "optimo",
+    "edad": 54,
+    "genero": "HOMBRE",
+    "tarifa": 48559.08096
+  },
+  {
+    "plan": "optimo",
+    "edad": 54,
+    "genero": "MUJER",
+    "tarifa": 49214.93407
+  },
+  {
+    "plan": "premium",
+    "edad": 54,
+    "genero": "HOMBRE",
+    "tarifa": 52540.9256
+  },
+  {
+    "plan": "premium",
+    "edad": 54,
+    "genero": "MUJER",
+    "tarifa": 53250.55867
+  },
+  {
+    "plan": "esencial",
+    "edad": 55,
+    "genero": "HOMBRE",
+    "tarifa": 52974.14497
+  },
+  {
+    "plan": "esencial",
+    "edad": 55,
+    "genero": "MUJER",
+    "tarifa": 52815.28238
+  },
+  {
+    "plan": "optimo",
+    "edad": 55,
+    "genero": "HOMBRE",
+    "tarifa": 51783.13291
+  },
+  {
+    "plan": "optimo",
+    "edad": 55,
+    "genero": "MUJER",
+    "tarifa": 51627.84201
+  },
+  {
+    "plan": "premium",
+    "edad": 55,
+    "genero": "HOMBRE",
+    "tarifa": 56029.34981
+  },
+  {
+    "plan": "premium",
+    "edad": 55,
+    "genero": "MUJER",
+    "tarifa": 55861.32506
+  },
+  {
+    "plan": "esencial",
+    "edad": 56,
+    "genero": "MUJER",
+    "tarifa": 55404.71221
+  },
+  {
+    "plan": "esencial",
+    "edad": 56,
+    "genero": "HOMBRE",
+    "tarifa": 56491.33291
+  },
+  {
+    "plan": "optimo",
+    "edad": 56,
+    "genero": "MUJER",
+    "tarifa": 54159.05397
+  },
+  {
+    "plan": "optimo",
+    "edad": 56,
+    "genero": "HOMBRE",
+    "tarifa": 55221.24429
+  },
+  {
+    "plan": "premium",
+    "edad": 56,
+    "genero": "MUJER",
+    "tarifa": 58600.09639
+  },
+  {
+    "plan": "premium",
+    "edad": 56,
+    "genero": "HOMBRE",
+    "tarifa": 59749.38632
+  },
+  {
+    "plan": "esencial",
+    "edad": 57,
+    "genero": "HOMBRE",
+    "tarifa": 60242.03832
+  },
+  {
+    "plan": "esencial",
+    "edad": 57,
+    "genero": "MUJER",
+    "tarifa": 58121.09479
+  },
+  {
+    "plan": "optimo",
+    "edad": 57,
+    "genero": "HOMBRE",
+    "tarifa": 58887.62299
+  },
+  {
+    "plan": "optimo",
+    "edad": 57,
+    "genero": "MUJER",
+    "tarifa": 56814.36441
+  },
+  {
+    "plan": "premium",
+    "edad": 57,
+    "genero": "HOMBRE",
+    "tarifa": 63716.40808
+  },
+  {
+    "plan": "premium",
+    "edad": 57,
+    "genero": "MUJER",
+    "tarifa": 61473.14229
+  },
+  {
+    "plan": "esencial",
+    "edad": 58,
+    "genero": "HOMBRE",
+    "tarifa": 64241.77252
+  },
+  {
+    "plan": "esencial",
+    "edad": 58,
+    "genero": "MUJER",
+    "tarifa": 60970.65496
+  },
+  {
+    "plan": "optimo",
+    "edad": 58,
+    "genero": "HOMBRE",
+    "tarifa": 62797.4316
+  },
+  {
+    "plan": "optimo",
+    "edad": 58,
+    "genero": "MUJER",
+    "tarifa": 59599.85822
+  },
+  {
+    "plan": "premium",
+    "edad": 58,
+    "genero": "HOMBRE",
+    "tarifa": 67946.82099
+  },
+  {
+    "plan": "premium",
+    "edad": 58,
+    "genero": "MUJER",
+    "tarifa": 64487.04659
+  },
+  {
+    "plan": "esencial",
+    "edad": 59,
+    "genero": "HOMBRE",
+    "tarifa": 68507.06735
+  },
+  {
+    "plan": "esencial",
+    "edad": 59,
+    "genero": "MUJER",
+    "tarifa": 63959.92235
+  },
+  {
+    "plan": "optimo",
+    "edad": 59,
+    "genero": "HOMBRE",
+    "tarifa": 66966.83025
+  },
+  {
+    "plan": "optimo",
+    "edad": 59,
+    "genero": "MUJER",
+    "tarifa": 62521.91823
+  },
+  {
+    "plan": "premium",
+    "edad": 59,
+    "genero": "HOMBRE",
+    "tarifa": 72458.11033
+  },
+  {
+    "plan": "premium",
+    "edad": 59,
+    "genero": "MUJER",
+    "tarifa": 67648.71553
+  },
+  {
+    "plan": "esencial",
+    "edad": 60,
+    "genero": "HOMBRE",
+    "tarifa": 77825.09064
+  },
+  {
+    "plan": "esencial",
+    "edad": 60,
+    "genero": "MUJER",
+    "tarifa": 72492.66359
+  },
+  {
+    "plan": "optimo",
+    "edad": 60,
+    "genero": "HOMBRE",
+    "tarifa": 76075.35742
+  },
+  {
+    "plan": "optimo",
+    "edad": 60,
+    "genero": "MUJER",
+    "tarifa": 70862.81876
+  },
+  {
+    "plan": "premium",
+    "edad": 60,
+    "genero": "HOMBRE",
+    "tarifa": 82313.53673
+  },
+  {
+    "plan": "premium",
+    "edad": 60,
+    "genero": "MUJER",
+    "tarifa": 76673.5699
+  },
+  {
+    "plan": "esencial",
+    "edad": 61,
+    "genero": "HOMBRE",
+    "tarifa": 88410.51219
+  },
+  {
+    "plan": "esencial",
+    "edad": 61,
+    "genero": "MUJER",
+    "tarifa": 82163.73771
+  },
+  {
+    "plan": "optimo",
+    "edad": 61,
+    "genero": "HOMBRE",
+    "tarifa": 86422.78806
+  },
+  {
+    "plan": "optimo",
+    "edad": 61,
+    "genero": "MUJER",
+    "tarifa": 80316.45915
+  },
+  {
+    "plan": "premium",
+    "edad": 61,
+    "genero": "HOMBRE",
+    "tarifa": 93509.45668
+  },
+  {
+    "plan": "premium",
+    "edad": 61,
+    "genero": "MUJER",
+    "tarifa": 86902.4088
+  },
+  {
+    "plan": "esencial",
+    "edad": 62,
+    "genero": "MUJER",
+    "tarifa": 93125.00571
+  },
+  {
+    "plan": "esencial",
+    "edad": 62,
+    "genero": "HOMBRE",
+    "tarifa": 100435.7155
+  },
+  {
+    "plan": "optimo",
+    "edad": 62,
+    "genero": "MUJER",
+    "tarifa": 91031.28613
+  },
+  {
+    "plan": "optimo",
+    "edad": 62,
+    "genero": "HOMBRE",
+    "tarifa": 98177.63002
+  },
+  {
+    "plan": "premium",
+    "edad": 62,
+    "genero": "MUJER",
+    "tarifa": 98495.85159
+  },
+  {
+    "plan": "premium",
+    "edad": 62,
+    "genero": "HOMBRE",
+    "tarifa": 106228.1957
+  },
+  {
+    "plan": "esencial",
+    "edad": 63,
+    "genero": "HOMBRE",
+    "tarifa": 114096.5284
+  },
+  {
+    "plan": "esencial",
+    "edad": 63,
+    "genero": "MUJER",
+    "tarifa": 105548.5913
+  },
+  {
+    "plan": "optimo",
+    "edad": 63,
+    "genero": "HOMBRE",
+    "tarifa": 111531.3083
+  },
+  {
+    "plan": "optimo",
+    "edad": 63,
+    "genero": "MUJER",
+    "tarifa": 103175.5536
+  },
+  {
+    "plan": "premium",
+    "edad": 63,
+    "genero": "HOMBRE",
+    "tarifa": 120676.8756
+  },
+  {
+    "plan": "premium",
+    "edad": 63,
+    "genero": "MUJER",
+    "tarifa": 111635.949
+  },
+  {
+    "plan": "esencial",
+    "edad": 64,
+    "genero": "HOMBRE",
+    "tarifa": 129615.426
+  },
+  {
+    "plan": "esencial",
+    "edad": 64,
+    "genero": "MUJER",
+    "tarifa": 119629.5742
+  },
+  {
+    "plan": "optimo",
+    "edad": 64,
+    "genero": "HOMBRE",
+    "tarifa": 126701.2962
+  },
+  {
+    "plan": "optimo",
+    "edad": 64,
+    "genero": "MUJER",
+    "tarifa": 116939.9552
+  },
+  {
+    "plan": "premium",
+    "edad": 64,
+    "genero": "HOMBRE",
+    "tarifa": 137090.8025
+  },
+  {
+    "plan": "premium",
+    "edad": 64,
+    "genero": "MUJER",
+    "tarifa": 126529.0315
+  },
+  {
+    "plan": "esencial",
+    "edad": 65,
+    "genero": "HOMBRE",
+    "tarifa": 147245.1349
+  },
+  {
+    "plan": "esencial",
+    "edad": 65,
+    "genero": "MUJER",
+    "tarifa": 135589.0695
+  },
+  {
+    "plan": "optimo",
+    "edad": 65,
+    "genero": "HOMBRE",
+    "tarifa": 143934.6382
+  },
+  {
+    "plan": "optimo",
+    "edad": 65,
+    "genero": "MUJER",
+    "tarifa": 132540.6349
+  },
+  {
+    "plan": "premium",
+    "edad": 65,
+    "genero": "HOMBRE",
+    "tarifa": 155737.2786
+  },
+  {
+    "plan": "premium",
+    "edad": 65,
+    "genero": "MUJER",
+    "tarifa": 143408.9669
+  },
+  {
+    "plan": "esencial",
+    "edad": 66,
+    "genero": "HOMBRE",
+    "tarifa": 167272.7584
+  },
+  {
+    "plan": "esencial",
+    "edad": 66,
+    "genero": "MUJER",
+    "tarifa": 153677.6854
+  },
+  {
+    "plan": "optimo",
+    "edad": 66,
+    "genero": "HOMBRE",
+    "tarifa": 163511.9828
+  },
+  {
+    "plan": "optimo",
+    "edad": 66,
+    "genero": "MUJER",
+    "tarifa": 150222.5664
+  },
+  {
+    "plan": "premium",
+    "edad": 66,
+    "genero": "HOMBRE",
+    "tarifa": 176919.9654
+  },
+  {
+    "plan": "premium",
+    "edad": 66,
+    "genero": "MUJER",
+    "tarifa": 162540.8168
+  },
+  {
+    "plan": "esencial",
+    "edad": 67,
+    "genero": "HOMBRE",
+    "tarifa": 190024.4447
+  },
+  {
+    "plan": "esencial",
+    "edad": 67,
+    "genero": "MUJER",
+    "tarifa": 174179.4575
+  },
+  {
+    "plan": "optimo",
+    "edad": 67,
+    "genero": "HOMBRE",
+    "tarifa": 185752.1454
+  },
+  {
+    "plan": "optimo",
+    "edad": 67,
+    "genero": "MUJER",
+    "tarifa": 170263.3993
+  },
+  {
+    "plan": "premium",
+    "edad": 67,
+    "genero": "HOMBRE",
+    "tarifa": 200983.8213
+  },
+  {
+    "plan": "premium",
+    "edad": 67,
+    "genero": "MUJER",
+    "tarifa": 184224.998
+  },
+  {
+    "plan": "esencial",
+    "edad": 68,
+    "genero": "MUJER",
+    "tarifa": 197416.3231
+  },
+  {
+    "plan": "esencial",
+    "edad": 68,
+    "genero": "HOMBRE",
+    "tarifa": 215870.7168
+  },
+  {
+    "plan": "optimo",
+    "edad": 68,
+    "genero": "MUJER",
+    "tarifa": 192977.833
+  },
+  {
+    "plan": "optimo",
+    "edad": 68,
+    "genero": "HOMBRE",
+    "tarifa": 211017.3185
+  },
+  {
+    "plan": "premium",
+    "edad": 68,
+    "genero": "MUJER",
+    "tarifa": 208802.0153
+  },
+  {
+    "plan": "premium",
+    "edad": 68,
+    "genero": "HOMBRE",
+    "tarifa": 228320.7386
+  },
+  {
+    "plan": "esencial",
+    "edad": 69,
+    "genero": "HOMBRE",
+    "tarifa": 245232.4861
+  },
+  {
+    "plan": "esencial",
+    "edad": 69,
+    "genero": "MUJER",
+    "tarifa": 223753.1635
+  },
+  {
+    "plan": "optimo",
+    "edad": 69,
+    "genero": "HOMBRE",
+    "tarifa": 239718.9502
+  },
+  {
+    "plan": "optimo",
+    "edad": 69,
+    "genero": "MUJER",
+    "tarifa": 218722.545
+  },
+  {
+    "plan": "premium",
+    "edad": 69,
+    "genero": "HOMBRE",
+    "tarifa": 259375.9041
+  },
+  {
+    "plan": "premium",
+    "edad": 69,
+    "genero": "MUJER",
+    "tarifa": 236657.7937
+  },
+  {
+    "plan": "esencial",
+    "edad": 70,
+    "genero": "HOMBRE",
+    "tarifa": 278587.9069
+  },
+  {
+    "plan": "esencial",
+    "edad": 70,
+    "genero": "MUJER",
+    "tarifa": 253603.5397
+  },
+  {
+    "plan": "optimo",
+    "edad": 70,
+    "genero": "HOMBRE",
+    "tarifa": 272324.4447
+  },
+  {
+    "plan": "optimo",
+    "edad": 70,
+    "genero": "MUJER",
+    "tarifa": 247901.7983
+  },
+  {
+    "plan": "premium",
+    "edad": 70,
+    "genero": "HOMBRE",
+    "tarifa": 294655.0491
+  },
+  {
+    "plan": "premium",
+    "edad": 70,
+    "genero": "MUJER",
+    "tarifa": 268229.7458
+  },
+  {
+    "plan": "esencial",
+    "edad": 71,
+    "genero": "HOMBRE",
+    "tarifa": 281373.7878
+  },
+  {
+    "plan": "esencial",
+    "edad": 71,
+    "genero": "MUJER",
+    "tarifa": 256139.5757
+  },
+  {
+    "plan": "optimo",
+    "edad": 71,
+    "genero": "HOMBRE",
+    "tarifa": 275047.6909
+  },
+  {
+    "plan": "optimo",
+    "edad": 71,
+    "genero": "MUJER",
+    "tarifa": 250380.8169
+  },
+  {
+    "plan": "premium",
+    "edad": 71,
+    "genero": "HOMBRE",
+    "tarifa": 297601.6016
+  },
+  {
+    "plan": "premium",
+    "edad": 71,
+    "genero": "MUJER",
+    "tarifa": 270912.0439
+  },
+  {
+    "plan": "esencial",
+    "edad": 72,
+    "genero": "HOMBRE",
+    "tarifa": 284187.5247
+  },
+  {
+    "plan": "esencial",
+    "edad": 72,
+    "genero": "MUJER",
+    "tarifa": 258700.9692
+  },
+  {
+    "plan": "optimo",
+    "edad": 72,
+    "genero": "HOMBRE",
+    "tarifa": 277798.1668
+  },
+  {
+    "plan": "optimo",
+    "edad": 72,
+    "genero": "MUJER",
+    "tarifa": 252884.6229
+  },
+  {
+    "plan": "premium",
+    "edad": 72,
+    "genero": "HOMBRE",
+    "tarifa": 300577.6165
+  },
+  {
+    "plan": "premium",
+    "edad": 72,
+    "genero": "MUJER",
+    "tarifa": 273621.162
+  },
+  {
+    "plan": "esencial",
+    "edad": 73,
+    "genero": "HOMBRE",
+    "tarifa": 287029.4011
+  },
+  {
+    "plan": "esencial",
+    "edad": 73,
+    "genero": "MUJER",
+    "tarifa": 261287.9796
+  },
+  {
+    "plan": "optimo",
+    "edad": 73,
+    "genero": "HOMBRE",
+    "tarifa": 280576.1496
+  },
+  {
+    "plan": "optimo",
+    "edad": 73,
+    "genero": "MUJER",
+    "tarifa": 255413.4698
+  },
+  {
+    "plan": "premium",
+    "edad": 73,
+    "genero": "HOMBRE",
+    "tarifa": 303583.3939
+  },
+  {
+    "plan": "premium",
+    "edad": 73,
+    "genero": "MUJER",
+    "tarifa": 276357.3743
+  },
+  {
+    "plan": "esencial",
+    "edad": 74,
+    "genero": "HOMBRE",
+    "tarifa": 289899.6917
+  },
+  {
+    "plan": "esencial",
+    "edad": 74,
+    "genero": "MUJER",
+    "tarifa": 263900.8594
+  },
+  {
+    "plan": "optimo",
+    "edad": 74,
+    "genero": "HOMBRE",
+    "tarifa": 283381.9079
+  },
+  {
+    "plan": "optimo",
+    "edad": 74,
+    "genero": "MUJER",
+    "tarifa": 257967.6045
+  },
+  {
+    "plan": "premium",
+    "edad": 74,
+    "genero": "HOMBRE",
+    "tarifa": 306619.2243
+  },
+  {
+    "plan": "premium",
+    "edad": 74,
+    "genero": "MUJER",
+    "tarifa": 279120.9481
+  },
+  {
+    "plan": "esencial",
+    "edad": 75,
+    "genero": "MUJER",
+    "tarifa": 266539.8678
+  },
+  {
+    "plan": "esencial",
+    "edad": 75,
+    "genero": "HOMBRE",
+    "tarifa": 292798.6922
+  },
+  {
+    "plan": "optimo",
+    "edad": 75,
+    "genero": "MUJER",
+    "tarifa": 260547.2804
+  },
+  {
+    "plan": "optimo",
+    "edad": 75,
+    "genero": "HOMBRE",
+    "tarifa": 286215.7304
+  },
+  {
+    "plan": "premium",
+    "edad": 75,
+    "genero": "MUJER",
+    "tarifa": 281912.1573
+  },
+  {
+    "plan": "premium",
+    "edad": 75,
+    "genero": "HOMBRE",
+    "tarifa": 309685.4203
+  },
+  {
+    "plan": "esencial",
+    "edad": 76,
+    "genero": "HOMBRE",
+    "tarifa": 295726.677
+  },
+  {
+    "plan": "esencial",
+    "edad": 76,
+    "genero": "MUJER",
+    "tarifa": 269205.2662
+  },
+  {
+    "plan": "optimo",
+    "edad": 76,
+    "genero": "HOMBRE",
+    "tarifa": 289077.8856
+  },
+  {
+    "plan": "optimo",
+    "edad": 76,
+    "genero": "MUJER",
+    "tarifa": 263152.7529
+  },
+  {
+    "plan": "premium",
+    "edad": 76,
+    "genero": "HOMBRE",
+    "tarifa": 312782.2722
+  },
+  {
+    "plan": "premium",
+    "edad": 76,
+    "genero": "MUJER",
+    "tarifa": 284731.2787
+  },
+  {
+    "plan": "esencial",
+    "edad": 77,
+    "genero": "HOMBRE",
+    "tarifa": 298683.9439
+  },
+  {
+    "plan": "esencial",
+    "edad": 77,
+    "genero": "MUJER",
+    "tarifa": 271897.3207
+  },
+  {
+    "plan": "optimo",
+    "edad": 77,
+    "genero": "HOMBRE",
+    "tarifa": 291968.6646
+  },
+  {
+    "plan": "optimo",
+    "edad": 77,
+    "genero": "MUJER",
+    "tarifa": 265784.2822
+  },
+  {
+    "plan": "premium",
+    "edad": 77,
+    "genero": "HOMBRE",
+    "tarifa": 315910.0951
+  },
+  {
+    "plan": "premium",
+    "edad": 77,
+    "genero": "MUJER",
+    "tarifa": 287578.5933
+  },
+  {
+    "plan": "esencial",
+    "edad": 78,
+    "genero": "HOMBRE",
+    "tarifa": 301670.7834
+  },
+  {
+    "plan": "esencial",
+    "edad": 78,
+    "genero": "MUJER",
+    "tarifa": 274616.2924
+  },
+  {
+    "plan": "optimo",
+    "edad": 78,
+    "genero": "HOMBRE",
+    "tarifa": 294888.3513
+  },
+  {
+    "plan": "optimo",
+    "edad": 78,
+    "genero": "MUJER",
+    "tarifa": 268442.1235
+  },
+  {
+    "plan": "premium",
+    "edad": 78,
+    "genero": "HOMBRE",
+    "tarifa": 319069.1961
+  },
+  {
+    "plan": "premium",
+    "edad": 78,
+    "genero": "MUJER",
+    "tarifa": 290454.3777
+  },
+  {
+    "plan": "esencial",
+    "edad": 79,
+    "genero": "HOMBRE",
+    "tarifa": 304687.4923
+  },
+  {
+    "plan": "esencial",
+    "edad": 79,
+    "genero": "MUJER",
+    "tarifa": 277362.4556
+  },
+  {
+    "plan": "optimo",
+    "edad": 79,
+    "genero": "HOMBRE",
+    "tarifa": 297837.2358
+  },
+  {
+    "plan": "optimo",
+    "edad": 79,
+    "genero": "MUJER",
+    "tarifa": 271126.5451
+  },
+  {
+    "plan": "premium",
+    "edad": 79,
+    "genero": "HOMBRE",
+    "tarifa": 322259.8892
+  },
+  {
+    "plan": "premium",
+    "edad": 79,
+    "genero": "MUJER",
+    "tarifa": 293358.9218
+  },
+  {
+    "plan": "esencial",
+    "edad": 80,
+    "genero": "HOMBRE",
+    "tarifa": 307734.3666
+  },
+  {
+    "plan": "esencial",
+    "edad": 80,
+    "genero": "MUJER",
+    "tarifa": 280136.0798
+  },
+  {
+    "plan": "optimo",
+    "edad": 80,
+    "genero": "HOMBRE",
+    "tarifa": 300815.6076
+  },
+  {
+    "plan": "optimo",
+    "edad": 80,
+    "genero": "MUJER",
+    "tarifa": 273837.8102
+  },
+  {
+    "plan": "premium",
+    "edad": 80,
+    "genero": "HOMBRE",
+    "tarifa": 325482.4874
+  },
+  {
+    "plan": "premium",
+    "edad": 80,
+    "genero": "MUJER",
+    "tarifa": 296292.5106
+  },
+  {
+    "plan": "esencial",
+    "edad": 81,
+    "genero": "MUJER",
+    "tarifa": 282937.4406
+  },
+  {
+    "plan": "esencial",
+    "edad": 81,
+    "genero": "HOMBRE",
+    "tarifa": 310811.71
+  },
+  {
+    "plan": "optimo",
+    "edad": 81,
+    "genero": "MUJER",
+    "tarifa": 276576.1883
+  },
+  {
+    "plan": "optimo",
+    "edad": 81,
+    "genero": "HOMBRE",
+    "tarifa": 303823.7634
+  },
+  {
+    "plan": "premium",
+    "edad": 81,
+    "genero": "MUJER",
+    "tarifa": 299255.4357
+  },
+  {
+    "plan": "premium",
+    "edad": 81,
+    "genero": "HOMBRE",
+    "tarifa": 328737.312
+  },
+  {
+    "plan": "esencial",
+    "edad": 82,
+    "genero": "HOMBRE",
+    "tarifa": 313919.8265
+  },
+  {
+    "plan": "esencial",
+    "edad": 82,
+    "genero": "MUJER",
+    "tarifa": 285766.8145
+  },
+  {
+    "plan": "optimo",
+    "edad": 82,
+    "genero": "HOMBRE",
+    "tarifa": 306862.0005
+  },
+  {
+    "plan": "optimo",
+    "edad": 82,
+    "genero": "MUJER",
+    "tarifa": 279341.9496
+  },
+  {
+    "plan": "premium",
+    "edad": 82,
+    "genero": "HOMBRE",
+    "tarifa": 332024.6845
+  },
+  {
+    "plan": "premium",
+    "edad": 82,
+    "genero": "MUJER",
+    "tarifa": 302247.9895
+  },
+  {
+    "plan": "esencial",
+    "edad": 83,
+    "genero": "HOMBRE",
+    "tarifa": 317059.0268
+  },
+  {
+    "plan": "esencial",
+    "edad": 83,
+    "genero": "MUJER",
+    "tarifa": 288624.4848
+  },
+  {
+    "plan": "optimo",
+    "edad": 83,
+    "genero": "HOMBRE",
+    "tarifa": 309930.6224
+  },
+  {
+    "plan": "optimo",
+    "edad": 83,
+    "genero": "MUJER",
+    "tarifa": 282135.3712
+  },
+  {
+    "plan": "premium",
+    "edad": 83,
+    "genero": "HOMBRE",
+    "tarifa": 335344.9335
+  },
+  {
+    "plan": "premium",
+    "edad": 83,
+    "genero": "MUJER",
+    "tarifa": 305270.4717
+  },
+  {
+    "plan": "esencial",
+    "edad": 84,
+    "genero": "HOMBRE",
+    "tarifa": 320229.6167
+  },
+  {
+    "plan": "esencial",
+    "edad": 84,
+    "genero": "MUJER",
+    "tarifa": 291510.7262
+  },
+  {
+    "plan": "optimo",
+    "edad": 84,
+    "genero": "HOMBRE",
+    "tarifa": 313029.9284
+  },
+  {
+    "plan": "optimo",
+    "edad": 84,
+    "genero": "MUJER",
+    "tarifa": 284956.7216
+  },
+  {
+    "plan": "premium",
+    "edad": 84,
+    "genero": "HOMBRE",
+    "tarifa": 338698.3825
+  },
+  {
+    "plan": "premium",
+    "edad": 84,
+    "genero": "MUJER",
+    "tarifa": 308323.1727
+  },
+  {
+    "plan": "esencial",
+    "edad": 85,
+    "genero": "HOMBRE",
+    "tarifa": 323431.9129
+  },
+  {
+    "plan": "esencial",
+    "edad": 85,
+    "genero": "MUJER",
+    "tarifa": 294425.836
+  },
+  {
+    "plan": "optimo",
+    "edad": 85,
+    "genero": "HOMBRE",
+    "tarifa": 316160.2277
+  },
+  {
+    "plan": "optimo",
+    "edad": 85,
+    "genero": "MUJER",
+    "tarifa": 287806.2913
+  },
+  {
+    "plan": "premium",
+    "edad": 85,
+    "genero": "HOMBRE",
+    "tarifa": 342085.3664
+  },
+  {
+    "plan": "premium",
+    "edad": 85,
+    "genero": "MUJER",
+    "tarifa": 311406.4072
+  },
+  {
+    "plan": "esencial",
+    "edad": 86,
+    "genero": "HOMBRE",
+    "tarifa": 326666.2319
+  },
+  {
+    "plan": "esencial",
+    "edad": 86,
+    "genero": "MUJER",
+    "tarifa": 297370.0944
+  },
+  {
+    "plan": "optimo",
+    "edad": 86,
+    "genero": "HOMBRE",
+    "tarifa": 319321.8298
+  },
+  {
+    "plan": "optimo",
+    "edad": 86,
+    "genero": "MUJER",
+    "tarifa": 290684.3542
+  },
+  {
+    "plan": "premium",
+    "edad": 86,
+    "genero": "HOMBRE",
+    "tarifa": 345506.2198
+  },
+  {
+    "plan": "premium",
+    "edad": 86,
+    "genero": "MUJER",
+    "tarifa": 314520.4713
+  },
+  {
+    "plan": "esencial",
+    "edad": 87,
+    "genero": "HOMBRE",
+    "tarifa": 329932.8918
+  },
+  {
+    "plan": "esencial",
+    "edad": 87,
+    "genero": "MUJER",
+    "tarifa": 300343.7943
+  },
+  {
+    "plan": "optimo",
+    "edad": 87,
+    "genero": "HOMBRE",
+    "tarifa": 322515.0458
+  },
+  {
+    "plan": "optimo",
+    "edad": 87,
+    "genero": "MUJER",
+    "tarifa": 293591.1968
+  },
+  {
+    "plan": "premium",
+    "edad": 87,
+    "genero": "HOMBRE",
+    "tarifa": 348961.2795
+  },
+  {
+    "plan": "premium",
+    "edad": 87,
+    "genero": "MUJER",
+    "tarifa": 317665.675
+  },
+  {
+    "plan": "esencial",
+    "edad": 88,
+    "genero": "MUJER",
+    "tarifa": 303347.2324
+  },
+  {
+    "plan": "esencial",
+    "edad": 88,
+    "genero": "HOMBRE",
+    "tarifa": 333232.2224
+  },
+  {
+    "plan": "optimo",
+    "edad": 88,
+    "genero": "MUJER",
+    "tarifa": 296527.1089
+  },
+  {
+    "plan": "optimo",
+    "edad": 88,
+    "genero": "HOMBRE",
+    "tarifa": 325740.1978
+  },
+  {
+    "plan": "premium",
+    "edad": 88,
+    "genero": "MUJER",
+    "tarifa": 320842.3318
+  },
+  {
+    "plan": "premium",
+    "edad": 88,
+    "genero": "HOMBRE",
+    "tarifa": 352450.894
+  },
+  {
+    "plan": "esencial",
+    "edad": 89,
+    "genero": "HOMBRE",
+    "tarifa": 336564.5459
+  },
+  {
+    "plan": "esencial",
+    "edad": 89,
+    "genero": "MUJER",
+    "tarifa": 306380.7038
+  },
+  {
+    "plan": "optimo",
+    "edad": 89,
+    "genero": "HOMBRE",
+    "tarifa": 328997.6011
+  },
+  {
+    "plan": "optimo",
+    "edad": 89,
+    "genero": "MUJER",
+    "tarifa": 299492.379
+  },
+  {
+    "plan": "premium",
+    "edad": 89,
+    "genero": "HOMBRE",
+    "tarifa": 355975.4044
+  },
+  {
+    "plan": "premium",
+    "edad": 89,
+    "genero": "MUJER",
+    "tarifa": 324050.7541
+  },
+  {
+    "plan": "esencial",
+    "edad": 90,
+    "genero": "HOMBRE",
+    "tarifa": 339930.1909
+  },
+  {
+    "plan": "esencial",
+    "edad": 90,
+    "genero": "MUJER",
+    "tarifa": 309444.5115
+  },
+  {
+    "plan": "optimo",
+    "edad": 90,
+    "genero": "HOMBRE",
+    "tarifa": 332287.5767
+  },
+  {
+    "plan": "optimo",
+    "edad": 90,
+    "genero": "MUJER",
+    "tarifa": 302487.3035
+  },
+  {
+    "plan": "premium",
+    "edad": 90,
+    "genero": "HOMBRE",
+    "tarifa": 359535.1579
+  },
+  {
+    "plan": "premium",
+    "edad": 90,
+    "genero": "MUJER",
+    "tarifa": 327291.2624
+  },
+  {
+    "plan": "esencial",
+    "edad": 91,
+    "genero": "HOMBRE",
+    "tarifa": 343329.4916
+  },
+  {
+    "plan": "esencial",
+    "edad": 91,
+    "genero": "MUJER",
+    "tarifa": 312538.9575
+  },
+  {
+    "plan": "optimo",
+    "edad": 91,
+    "genero": "HOMBRE",
+    "tarifa": 335610.4513
+  },
+  {
+    "plan": "optimo",
+    "edad": 91,
+    "genero": "MUJER",
+    "tarifa": 305512.1774
+  },
+  {
+    "plan": "premium",
+    "edad": 91,
+    "genero": "HOMBRE",
+    "tarifa": 363130.5083
+  },
+  {
+    "plan": "premium",
+    "edad": 91,
+    "genero": "MUJER",
+    "tarifa": 330564.1759
+  },
+  {
+    "plan": "esencial",
+    "edad": 92,
+    "genero": "HOMBRE",
+    "tarifa": 346762.7887
+  },
+  {
+    "plan": "esencial",
+    "edad": 92,
+    "genero": "MUJER",
+    "tarifa": 315664.3457
+  },
+  {
+    "plan": "optimo",
+    "edad": 92,
+    "genero": "HOMBRE",
+    "tarifa": 338966.5579
+  },
+  {
+    "plan": "optimo",
+    "edad": 92,
+    "genero": "MUJER",
+    "tarifa": 308567.2978
+  },
+  {
+    "plan": "premium",
+    "edad": 92,
+    "genero": "HOMBRE",
+    "tarifa": 366761.8156
+  },
+  {
+    "plan": "premium",
+    "edad": 92,
+    "genero": "MUJER",
+    "tarifa": 333869.8162
+  },
+  {
+    "plan": "esencial",
+    "edad": 93,
+    "genero": "HOMBRE",
+    "tarifa": 350230.4153
+  },
+  {
+    "plan": "esencial",
+    "edad": 93,
+    "genero": "MUJER",
+    "tarifa": 318820.9899
+  },
+  {
+    "plan": "optimo",
+    "edad": 93,
+    "genero": "HOMBRE",
+    "tarifa": 342356.2222
+  },
+  {
+    "plan": "optimo",
+    "edad": 93,
+    "genero": "MUJER",
+    "tarifa": 311652.9715
+  },
+  {
+    "plan": "premium",
+    "edad": 93,
+    "genero": "HOMBRE",
+    "tarifa": 370429.4324
+  },
+  {
+    "plan": "premium",
+    "edad": 93,
+    "genero": "MUJER",
+    "tarifa": 337208.5152
+  },
+  {
+    "plan": "esencial",
+    "edad": 94,
+    "genero": "MUJER",
+    "tarifa": 322009.1989
+  },
+  {
+    "plan": "esencial",
+    "edad": 94,
+    "genero": "HOMBRE",
+    "tarifa": 353732.7189
+  },
+  {
+    "plan": "optimo",
+    "edad": 94,
+    "genero": "MUJER",
+    "tarifa": 314769.5004
+  },
+  {
+    "plan": "optimo",
+    "edad": 94,
+    "genero": "HOMBRE",
+    "tarifa": 345779.7839
+  },
+  {
+    "plan": "premium",
+    "edad": 94,
+    "genero": "MUJER",
+    "tarifa": 340580.5994
+  },
+  {
+    "plan": "premium",
+    "edad": 94,
+    "genero": "HOMBRE",
+    "tarifa": 374133.7261
+  },
+  {
+    "plan": "esencial",
+    "edad": 95,
+    "genero": "HOMBRE",
+    "tarifa": 357270.0452
+  },
+  {
+    "plan": "esencial",
+    "edad": 95,
+    "genero": "MUJER",
+    "tarifa": 325229.2917
+  },
+  {
+    "plan": "optimo",
+    "edad": 95,
+    "genero": "HOMBRE",
+    "tarifa": 349237.5808
+  },
+  {
+    "plan": "optimo",
+    "edad": 95,
+    "genero": "MUJER",
+    "tarifa": 317917.1962
+  },
+  {
+    "plan": "premium",
+    "edad": 95,
+    "genero": "HOMBRE",
+    "tarifa": 377875.0625
+  },
+  {
+    "plan": "premium",
+    "edad": 95,
+    "genero": "MUJER",
+    "tarifa": 343986.4063
+  },
+  {
+    "plan": "esencial",
+    "edad": 96,
+    "genero": "HOMBRE",
+    "tarifa": 360842.7451
+  },
+  {
+    "plan": "esencial",
+    "edad": 96,
+    "genero": "MUJER",
+    "tarifa": 328481.5849
+  },
+  {
+    "plan": "optimo",
+    "edad": 96,
+    "genero": "HOMBRE",
+    "tarifa": 352729.9561
+  },
+  {
+    "plan": "optimo",
+    "edad": 96,
+    "genero": "MUJER",
+    "tarifa": 321096.3685
+  },
+  {
+    "plan": "premium",
+    "edad": 96,
+    "genero": "HOMBRE",
+    "tarifa": 381653.8125
+  },
+  {
+    "plan": "premium",
+    "edad": 96,
+    "genero": "MUJER",
+    "tarifa": 347426.2707
+  },
+  {
+    "plan": "esencial",
+    "edad": 97,
+    "genero": "HOMBRE",
+    "tarifa": 364451.1745
+  },
+  {
+    "plan": "esencial",
+    "edad": 97,
+    "genero": "MUJER",
+    "tarifa": 331766.3995
+  },
+  {
+    "plan": "optimo",
+    "edad": 97,
+    "genero": "HOMBRE",
+    "tarifa": 356257.2576
+  },
+  {
+    "plan": "optimo",
+    "edad": 97,
+    "genero": "MUJER",
+    "tarifa": 324307.3309
+  },
+  {
+    "plan": "premium",
+    "edad": 97,
+    "genero": "HOMBRE",
+    "tarifa": 385470.3527
+  },
+  {
+    "plan": "premium",
+    "edad": 97,
+    "genero": "MUJER",
+    "tarifa": 350900.5321
+  },
+  {
+    "plan": "esencial",
+    "edad": 98,
+    "genero": "HOMBRE",
+    "tarifa": 368095.6868
+  },
+  {
+    "plan": "esencial",
+    "edad": 98,
+    "genero": "MUJER",
+    "tarifa": 335084.0649
+  },
+  {
+    "plan": "optimo",
+    "edad": 98,
+    "genero": "HOMBRE",
+    "tarifa": 359819.8307
+  },
+  {
+    "plan": "optimo",
+    "edad": 98,
+    "genero": "MUJER",
+    "tarifa": 327550.4056
+  },
+  {
+    "plan": "premium",
+    "edad": 98,
+    "genero": "HOMBRE",
+    "tarifa": 389325.0568
+  },
+  {
+    "plan": "premium",
+    "edad": 98,
+    "genero": "MUJER",
+    "tarifa": 354409.5389
+  },
+  {
+    "plan": "esencial",
+    "edad": 99,
+    "genero": "HOMBRE",
+    "tarifa": 371776.6422
+  },
+  {
+    "plan": "esencial",
+    "edad": 99,
+    "genero": "MUJER",
+    "tarifa": 338434.9051
+  },
+  {
+    "plan": "optimo",
+    "edad": 99,
+    "genero": "HOMBRE",
+    "tarifa": 363418.0276
+  },
+  {
+    "plan": "optimo",
+    "edad": 99,
+    "genero": "MUJER",
+    "tarifa": 330825.9092
+  },
+  {
+    "plan": "premium",
+    "edad": 99,
+    "genero": "HOMBRE",
+    "tarifa": 393218.3059
+  },
+  {
+    "plan": "premium",
+    "edad": 99,
+    "genero": "MUJER",
+    "tarifa": 357953.6337
+  },
+  {
+    "plan": "esencial",
+    "edad": 100,
+    "genero": "HOMBRE",
+    "tarifa": 375494.4104
+  },
+  {
+    "plan": "esencial",
+    "edad": 100,
+    "genero": "MUJER",
+    "tarifa": 341819.2533
+  },
+  {
+    "plan": "optimo",
+    "edad": 100,
+    "genero": "HOMBRE",
+    "tarifa": 367052.2096
+  },
+  {
+    "plan": "optimo",
+    "edad": 100,
+    "genero": "MUJER",
+    "tarifa": 334134.1675
+  },
+  {
+    "plan": "premium",
+    "edad": 100,
+    "genero": "HOMBRE",
+    "tarifa": 397150.4908
+  },
+  {
+    "plan": "premium",
+    "edad": 100,
+    "genero": "MUJER",
+    "tarifa": 361533.1692
+  }
+]
