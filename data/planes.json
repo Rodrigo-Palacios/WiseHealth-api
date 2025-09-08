@@ -1,0 +1,29 @@
+[
+  {
+    "plan": "esencial",
+    "moneda": "MXN",
+    "suma_asegurada": 2000000,
+    "deducible": 0.15,
+    "coaseguro": 0.2,
+    "tope_coaseguro": 86000,
+    "renovación": "anual"
+  },
+  {
+    "plan": "optimo",
+    "moneda": "MXN",
+    "suma_asegurada": 4000000,
+    "deducible": 0.15,
+    "coaseguro": 0.15,
+    "tope_coaseguro": 86000,
+    "renovación": "anual"
+  },
+  {
+    "plan": "premium",
+    "moneda": "MXN",
+    "suma_asegurada": 8000000,
+    "deducible": 0.1,
+    "coaseguro": 0.1,
+    "tope_coaseguro": 86000,
+    "renovación": "anual"
+  }
+]
