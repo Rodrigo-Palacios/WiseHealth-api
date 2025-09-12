@@ -1,7 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
-import csvParser from 'csv-parser'
+import csv from 'csv-parser'
 
 const scriptPath = fileURLToPath(import.meta.url);
 const scriptDir = path.dirname(scriptPath);
@@ -9,7 +9,7 @@ const scriptDir = path.dirname(scriptPath);
 const inputPath = path.join(scriptDir, '../data/raw/planes.csv');
 const outputPath = path.join(scriptDir, '../data/planes.json');
 
-result = [];
+const result = [];
 
 fs.createReadStream(inputPath)
     .pipe(csv({ separator: ';', mapHeaders:({header}) => header.trim()} ))
@@ -25,4 +25,11 @@ fs.createReadStream(inputPath)
             renovación: row.renovación.trim()
         })
     })
-    //TODO: Terminar con el manejo de los datos
+    
+    .on('end', () => {
+        fs.writeFileSync(outputPath, JSON.stringify(result, null, 2));
+        console.log(`\u2705 File Generated Successfully ${outputPath}`);
+    })
+    .on('error', (err) => {
+        console.error('Error reading CSV file', err);
+    })
