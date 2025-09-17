@@ -20,7 +20,7 @@ export default async function handler (req, res) {
         const tarifas = JSON.parse(raw);
 
         const nomPlan = plan => String(plan || "").trim().toLowerCase();
-        const nomGen = gen => {
+        const normGen = gen => {
             const xOy = String(gen || "").trim().toUpperCase();
             if ("MUJER".includes(xOy)) return "F";
             if ("HOMBRE".includes(xOy)) return "M"
@@ -38,32 +38,32 @@ export default async function handler (req, res) {
 
         const { edad, genero} = req.query;//recupera la url
         const edadN = Number(edad);
-        const genN = nomGen(genero);
+        const genN = normGen(genero);
 
-        console.log({edad, genero, edadN, genN, sample: tarifas[0]})
-
+        
         const filtered = tarifas.filter(t =>
             Number(t.edad) === edadN &&
-            nomGen(t.genero) === genN
+            normGen(t.genero) === genN
         )
-
+        
         const porPlan = new Map();
-
+        
         for(const r of filtered) {
             const planId = nomPlan(r.plan);
             const precio = Number(r.tarifa);
-
+            
             if (!Number.isFinite(precio)) continue;
             if (!porPlan.has(planId)) {
                 porPlan.set(planId, {plan: planId, total: precio})
             }
         }
-
+        
         let item = Array.from(porPlan.values());
-
-        const ORDER = [ "esencial", "optimo", "premium"];
-        item.sort((a, b) => ORDER.indexOf(a.plan) - ORDER.indexOf(b.plan));
-
+        
+        const order = [ "esencial", "optimo", "premium"];
+        item.sort((a, b) => order.indexOf(a.plan) - order.indexOf(b.plan));
+        
+        console.log({edad, genero, edadN, genN, item})
         return res.status(200).json({
             ok: true,
             item
