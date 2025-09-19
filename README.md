@@ -43,7 +43,7 @@ Response:
 }
 ```
 
-### 2. `/api/cotizar`
+### 2. `POST /api/cotizar`
 
 Accepts a list of people and returns total cost per plan.
 Body (JSON):
@@ -72,7 +72,7 @@ Response:
 }
 ```
 
-### 3. `/api/planes`
+### 3. `GET /api/planes`
 
 Exposes static information for each plan (sum insured, deductible, coinsurance, etc.).
 
