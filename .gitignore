@@ -1,1 +1,6 @@
+#Dependencias
+node_modules/
+
+#Archivos de configuración
 .vercel
+.vscode
