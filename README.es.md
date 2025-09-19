@@ -7,17 +7,115 @@ Es una API **serverlees** construida con **Node.js** y desplegada en **vercel** 
 
 ## 🚀 Endpoints disponibles    
 
-### 1. `/api/tarifas`
+### 1. `GET /api/tarifas`
 
 Devuelve las tarifas filtradas por edad y género.
 
-### 2. `/api/cotizar`
+Query params:
+
+    - edad (number) → Edad
+    - genero (string) → "M", "F", "hombre", "mujer", etc.
+Query:
+```bash
+curl "https://wisehealth-api.vercel.app/api/tarifas?edad=10&genero=mujer"
+```
+Respuesta:
+```json
+{
+  "ok": true,
+  "item": [
+    {
+      "plan": "esencial",
+      "total": 11725.533
+    },
+    {
+      "plan": "optimo",
+      "total": 11461.90909
+    },
+    {
+      "plan": "premium",
+      "total": 12401.78564
+    }
+  ]
+}
+```
+
+### 2. `POST /api/cotizar`
 
 Recibe una lista de personas y devuelve los totales por plan.
+Body (JSON):
+```json
+{
+  "personas": [
+    { "edad": 10, "genero": "mujer" },
+    { "edad": 1, "genero": "mujer" }
+  ]
+}
+```
+Ejemplo:
+```bash
+curl -X POST "https://wisehealth-api.vercel.app/api/cotizar" ` -H "Content-Type: application/json" ` --data '{ "personas": [ { "edad": 10, "genero": "mujer" }, {"edad": 1, "genero": "mujer" } ]}'
+```
 
-### 3. `/api/planes`
+Respuesta:
+```json
+{
+    "ok":true,
+    "items":[
+        {"plan":"esencial","total":23741.68054},
+        {"plan":"optimo","total":23207.89886},
+        {"plan":"premium","total":25110.94658}
+    ]
+}
+```
+
+### 3. `GET /api/planes`
 
 Expone la información estática de cada plan ( suma asegurada, deducible, coaseguro etc.).
+
+Ejemplo:
+```bash
+curl "https://wisehealth-api.vercel.app/api/planes"
+```
+
+Respuesta:
+```json
+{
+  "ok": true,
+  "item": [
+    {
+      "plan": "esencial",
+      "moneda": "MXN",
+      "suma_asegurada": 2000000,
+      "deducible": 3,
+      "coaseguro": 0.2,
+      "tope_coaseguro": 86000,
+      "renovación": "anual",
+      "id": "esencial"
+    },
+    {
+      "plan": "optimo",
+      "moneda": "MXN",
+      "suma_asegurada": 4000000,
+      "deducible": 3,
+      "coaseguro": 0.15,
+      "tope_coaseguro": 86000,
+      "renovación": "anual",
+      "id": "optimo"
+    },
+    {
+      "plan": "premium",
+      "moneda": "MXN",
+      "suma_asegurada": 8000000,
+      "deducible": 3,
+      "coaseguro": 0.1,
+      "tope_coaseguro": 86000,
+      "renovación": "anual",
+      "id": "premium"
+    }
+  ]
+}
+```
 
 ## 📂 Estructura
 wisehealth-api/  
